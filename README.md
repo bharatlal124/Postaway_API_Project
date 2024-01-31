@@ -74,3 +74,27 @@ Postaway project is a social media platform enabling users to share posts, comme
 - **swagger-ui-express:** Used for documentation.
 - **winston:** Used for logging data.
 
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/postaway-api.git
+cd postaway-api
+```
+
+2. Install Dependencies:
+
+```bash
+npm i
+```
+
+3. Run the server.js file
+
+```bash
+node server.js
+```
+
+## Documentation
+
+Visit http://localhost:3200/api-docs in your web browser for API documentation.
