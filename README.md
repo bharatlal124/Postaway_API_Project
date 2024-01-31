@@ -80,7 +80,6 @@ Postaway project is a social media platform enabling users to share posts, comme
 
 ```bash
 git clone https://github.com/bharatlal124/Postaway_API_Project
-cd postaway-api
 ```
 
 2. Install Dependencies:
