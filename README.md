@@ -79,7 +79,7 @@ Postaway project is a social media platform enabling users to share posts, comme
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/postaway-api.git
+git clone https://github.com/bharatlal124/Postaway_API_Project
 cd postaway-api
 ```
 
