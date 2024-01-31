@@ -11,11 +11,11 @@ Postaway project is a social media platform enabling users to share posts, comme
 
 ## API Overview :
 
--**User Authentication**  
+- **User Authentication**  
     - User registration: Register new user in the application
     - User login: Authenticate users to access the application
 
--**Posts**  
+- **Posts**  
   - **Create New Post**: Enable users to create new posts with captions and images.
   - **Retrieve User's Posts**: Get all posts of the logged-in user.
   - **Retrieve All Posts**: Get all available posts.
@@ -23,13 +23,13 @@ Postaway project is a social media platform enabling users to share posts, comme
   - **Delete Specific Post by ID**: Allow users to delete a specific post by its ID.
   - **Update Specific Post by ID**: Enable users to modify a specific post by its ID.
 
--**Comments**  
+- **Comments**  
   - **Create New Comment**: Allow user to add comment to post.
   - **Delete Specific Comment by ID**: Allow user to delete a specific comment by its ID.
   - **Update Specific Comment by ID**: Allow user to modify a specific comment by its ID.
   - **Retrieve Comments for Specific Post**: Get all comments of a specific post.
 
- -**Likes**
+ - **Likes**
   - **Retrieve Likes for Specific Post**: Fetch the list of likes for a particular post by its ID.
   - **Toggle Like/Unlike Post or Comment**: Enable users to like or unlike specific posts.
 
